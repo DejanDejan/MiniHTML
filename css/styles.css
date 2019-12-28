@@ -1,0 +1,56 @@
+body {
+    background-color: #a9cece;
+}
+
+.main {
+    width: 900px;
+    margin: 0 auto;
+}
+
+.slika {
+    display: block;
+    margin: 0 auto;
+    width: 50%
+}
+
+h1 {
+    text-align: center;
+}
+
+li {
+    float: left;
+}
+
+a {
+    display: block;
+    padding: 8px;
+    background-color: #cfc8c8;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+table,
+th,
+td {
+    border-collapse: collapse;
+    border: 2px solid black;
+    font-weight: bold;
+}
+
+th,
+td {
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background-color: #46598b;
+}
+
+tr {
+    background-color: #a86369;
+}
